@@ -1,0 +1,14 @@
+d:\development\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe.config
+d:\development\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe
+d:\development\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.pdb
+d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csprojAssemblyReference.cache
+d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.CoreCompileInputs.cache
+d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.exe
+d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.pdb
+C:\Users\Seth.Jimenez\Documents\Personal\Business\Learning\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe.config
+C:\Users\Seth.Jimenez\Documents\Personal\Business\Learning\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe
+C:\Users\Seth.Jimenez\Documents\Personal\Business\Learning\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.pdb
+C:\Users\Seth.Jimenez\Documents\Personal\Business\Learning\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.AssemblyReference.cache
+C:\Users\Seth.Jimenez\Documents\Personal\Business\Learning\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.CoreCompileInputs.cache
+C:\Users\Seth.Jimenez\Documents\Personal\Business\Learning\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.exe
+C:\Users\Seth.Jimenez\Documents\Personal\Business\Learning\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.pdb
